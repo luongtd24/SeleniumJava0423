@@ -1,4 +1,4 @@
-package LearnVariable;
+package BT1.LearnVariable;
 
 public class SinhVien {
     //Khai bao bien local

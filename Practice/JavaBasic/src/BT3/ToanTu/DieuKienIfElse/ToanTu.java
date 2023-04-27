@@ -1,4 +1,4 @@
-package MethodDataType;
+package BT3.ToanTu.DieuKienIfElse;
 
 public class ToanTu {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class ToanTu {
         int b = 2;
 
         Boolean checkA = (a > 20) && (b < 20);
-        Boolean checkB = (a == 20 ) && (b > 20);
+        Boolean checkB = (a == 20) && (b > 20);
         Boolean checkC = (a == 24) || (b > 20);
         Boolean checkD = (a < 20) || (b == 20);
 

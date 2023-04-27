@@ -1,4 +1,4 @@
-package MethodDataType;
+package BT2.MethodDataType;
 
 public class Calculator {
 
