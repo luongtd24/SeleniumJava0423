@@ -1,4 +1,4 @@
-package BT3.ToanTu.DieuKienIfElse;
+package BT3.ToanTuDieuKienIfElse;
 
 public class ToanTu {
     public static void main(String[] args) {

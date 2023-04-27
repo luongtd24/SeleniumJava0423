@@ -1,11 +1,11 @@
-package BT3.ToanTu.DieuKienIfElse;
+package BT3.ToanTuDieuKienIfElse;
 
 public class DieuKienIfElse {
 
     static int number = 100;
 
     public static void sosanh() {
-        int n = 101;
+        int n = 99;
         if (n == number) {
             System.out.println("Tham so n bang " + number);
         } else if (n < number) {
